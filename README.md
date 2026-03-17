@@ -1,4 +1,4 @@
-# Rifad Project Website
+# Rafad Project Website
 
 A modern, bilingual (English/Arabic) corporate website for the Rifad Project, featuring smart cooling technology solutions. The website showcases our innovative Smart Cooling Ihram product and services with a sleek, responsive design.
 
